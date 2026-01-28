@@ -1,0 +1,76 @@
+# הטרריום הראשון שלי — Generative Engine Optimization Map
+
+> A גינון ועיצוב פנים business.
+
+---
+
+## Pages
+
+### Home
+https://-17177acd.zappy5.app
+
+### Products
+https://-17177acd.zappy5.app/products
+המוצרים שלנו - הטרריום הראשון שלי
+
+### Cart
+https://-17177acd.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-17177acd.zappy5.app/checkout
+תשלום
+
+### Login
+https://-17177acd.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-17177acd.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-17177acd.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-17177acd.zappy5.app/product/:slug
+פרטי המוצר - הטרריום הראשון שלי
+
+### Category
+https://-17177acd.zappy5.app/category/:slug
+מוצרים - הטרריום הראשון שלי
+
+## Legal & Policy
+
+### Privacy Policy
+https://-17177acd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-17177acd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-17177acd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הטרריום הראשון שלי
+הטרריום הראשון שלי is a business in the גינון ועיצוב פנים industry.
+
+## Target Audience
+General audience
+
+## Industry
+גינון ועיצוב פנים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-17177acd.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-17177acd.zappy5.app/robots.txt
